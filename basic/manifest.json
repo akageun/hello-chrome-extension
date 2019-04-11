@@ -1,0 +1,13 @@
+{
+  "name": "My Device Info",
+  "description": "device information viewer.",
+  "version": "0.0.1",
+  "permissions": [
+    "signedInDevices"
+  ],
+  "browser_action": {
+    "default_title": "My Device",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
